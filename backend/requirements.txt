@@ -1,0 +1,7 @@
+boto3==1.35.14
+llama-index==0.11.7
+python-dotenv==1.0.1
+pymongo==4.8.0
+llama_index.llms.bedrock
+llama_index.embeddings.bedrock
+llama_index.vector_stores.mongodb
